@@ -62,7 +62,7 @@ nav {
 .intro-text h1 {
 	font-size: 44px;
 	font-weight: 500;
-	background: linear-gradient(to right, #494964, #6f6f89);
+	background: linear-gradient(to right, #7765E3, #000000);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
@@ -75,16 +75,16 @@ nav {
 	padding: 50px 0px 0px 0px;
 }
 .cta-select {
-	border: 2px solid #c36cbb;
+	border: 2px solid #7765E3;
 	background: transparent;
-	color: #c36cbb;
+	color: #7765E3;
 	width: 150px;
 	height: 50px;
 	cursor: pointer;
 	font-size: 16px;
 }
 .cta-add {
-	background: #c36cbb;
+	background: #7765E3;
 	width: 150px;
 	height: 50px;
 	cursor: pointer;
@@ -129,7 +129,7 @@ nav {
 	z-index: -1;
 }
 
-.laptop-select {
+.cyber-select {
 	width: 15%;
 	display: flex;
 	justify-content: space-around;
